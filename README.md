@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arunachalam A
 - 👀 I’m interested in ...Cybersecurity
-- 🌱 I’m currently learning ...Full stack development
+- 🌱 I’m currently working as...Back end developer ( Django )
 - 💞️ I’m looking to collaborate on ...Web development projects
 - 📫 How to reach me ... Mail-id: arunachalam.a.work@gmail.com
 
