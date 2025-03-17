@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arunachalam A
 - 👀 I’m interested in ...Software Development & Cybersecurity
-- 🌱 I’m actively looking for a job as Back end developer ( Django & Django REST Framework)
+- 🌱 Working on Java Projects
 - 💞️ I’m looking to collaborate on ...Web development projects
 - 📫 How to reach me ... Mail-id: arunachalam.a.work@gmail.com
 
