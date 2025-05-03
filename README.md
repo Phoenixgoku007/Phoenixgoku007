@@ -1,6 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m Arunachalam A<br>👀 I’m interested in ...Software Development & Cybersecurity<br>🌱 Working on Java Projects<br>💞️ I’m looking to collaborate on ...Web development projects<br>📫 How to reach me ... Mail-id: arunachalam.a.work@gmail.com
 
+<div align="center">
+  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh0M20yd2U5YXR2dXRpMWg3NGxqeTVldG9nM3ZlOXphaGhrOXQ4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunachalam-a-dev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@career.focus.now.in) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Arunachalam-Arun-20) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13299988) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunachalam.a.work@gmail.com) 
