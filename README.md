@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Phoenixgoku007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenixgoku007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Phoenixgoku007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -25,6 +22,8 @@
 [![](https://visitcount.itsvg.in/api?id=Phoenixgoku007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![Arun's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Phoenixgoku007&bg_color=23101e&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phoenixgoku007/Phoenixgoku007/output/github-snake-dark.svg" />
