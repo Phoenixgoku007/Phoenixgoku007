@@ -1,5 +1,11 @@
-# 💫 About Me:
-👋 Hi, I’m Arunachalam A<br>👀 I’m interested in ...Software Development & Cybersecurity<br>🌱 Working on Java Projects<br>💞️ I’m looking to collaborate on ...Web development projects<br>📫 How to reach me ... Mail-id: arunachalam.a.work@gmail.com
+## 💫 About Me
+
+👋 **Hi, I'm Arunachalam A**  
+🔍 **Interests:** Software Development & Cybersecurity  
+💻 **Currently working on:** Java Projects  
+🤝 **Open to collaborate on:** Web Development Projects  
+📫 **Reach me at:** [arunachalam.a.work@gmail.com](mailto:arunachalam.a.work@gmail.com) </br></br>
+
 
 <div align="center">
   <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh0M20yd2U5YXR2dXRpMWg3NGxqeTVldG9nM3ZlOXphaGhrOXQ4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
