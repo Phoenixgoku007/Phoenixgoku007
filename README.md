@@ -18,9 +18,19 @@ Whether it’s a question, collaboration, or just a tech chat — feel free to d
 
 
 
-<div align="center">
-  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh0M20yd2U5YXR2dXRpMWg3NGxqeTVldG9nM3ZlOXphaGhrOXQ4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh0M20yd2U5YXR2dXRpMWg3NGxqeTVldG9nM3ZlOXphaGhrOXQ4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" height="350" width="350" />
+  
+  <a href="https://app.daily.dev/aarunachalam">
+    <img src="https://api.daily.dev/devcards/v2/olYrc9m9n441Qcipk3aGq.png?type=wide&r=qvt" height="350" width="550" alt="Arunachalam A's Dev Card" />
+  </a>
 </div>
+
+
+
+
+
+
 
 
 ## 🌐 Socials:
