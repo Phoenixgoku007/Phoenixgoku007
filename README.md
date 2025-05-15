@@ -65,10 +65,8 @@ Whether it’s a question, collaboration, or just a tech chat — feel free to d
   </tr>
 </table>
 
----
-[![](https://visitcount.itsvg.in/api?id=Phoenixgoku007&icon=0&color=0)](https://visitcount.itsvg.in)
+--------------
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![Arun's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Phoenixgoku007&bg_color=23101e&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -78,16 +76,4 @@ Whether it’s a question, collaboration, or just a tech chat — feel free to d
   <img alt="github-snake" src="https://raw.githubusercontent.com/Phoenixgoku007/Phoenixgoku007/output/github-snake.svg" />
 </picture>
 
-<img src="https://t.bkit.co/w_681604df9c2da.gif" />
-
 ![](https://komarev.com/ghpvc/?username=Phoenixgoku007)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!---
-Phoenixgoku007/Phoenixgoku007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
