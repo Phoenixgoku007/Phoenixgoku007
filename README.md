@@ -45,7 +45,7 @@ Whether it’s a question, collaboration, or just a tech chat — feel free to d
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Phoenixgoku007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Phoenixgoku007&theme=dark&hide_border=false&include_total_commits=true&count_private=true" />
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=Phoenixgoku007&theme=dark&hide_border=false" />
@@ -70,10 +70,12 @@ Whether it’s a question, collaboration, or just a tech chat — feel free to d
 
 [![Arun's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Phoenixgoku007&bg_color=23101e&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://t.bkit.co/w_681604df9c2da.gif" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phoenixgoku007/Phoenixgoku007/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phoenixgoku007/Phoenixgoku007/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Phoenixgoku007/Phoenixgoku007/output/github-snake.svg" />
-</picture><br>
+</picture><br><br>
 
 ![](https://komarev.com/ghpvc/?username=Phoenixgoku007)
