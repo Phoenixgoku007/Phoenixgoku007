@@ -74,6 +74,6 @@ Whether it’s a question, collaboration, or just a tech chat — feel free to d
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phoenixgoku007/Phoenixgoku007/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phoenixgoku007/Phoenixgoku007/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Phoenixgoku007/Phoenixgoku007/output/github-snake.svg" />
-</picture>
+</picture><br>
 
 ![](https://komarev.com/ghpvc/?username=Phoenixgoku007)
