@@ -28,7 +28,7 @@ Whether it’s a question, collaboration, or just a tech chat — feel free to d
 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -65,7 +65,7 @@ Whether it’s a question, collaboration, or just a tech chat — feel free to d
   </tr>
 </table>
 
---------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 [![Arun's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Phoenixgoku007&bg_color=23101e&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
