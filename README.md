@@ -9,7 +9,7 @@ Hey there! 👋 I'm **Arunachalam A** — a curious mind passionate about crafti
 💡 **Currently building:** Java-based projects that make life easier and apps smoother! ☕
 
 🤝 **Let’s team up!**  
-If you're into **Web Development**, I’d love to collaborate and learn together! 🌐💬  
+If you're into **Web Development**,**Cyber Security** **Or** **Artificial Intelligence** I’d love to collaborate and learn together! 🌐💬  
 
 📫 **Let’s Connect:**  
 Whether it’s a question, collaboration, or just a tech chat — feel free to drop me a line at  
